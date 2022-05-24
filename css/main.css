@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+
+}
+
+main {
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10%;
+    display: inline-block;
+
+}
+
+main > div {
+    width: 50%;
+    float: left;
+    font-size: 30px;
+    margin-top: 90px;
+}
+
+h1 {
+    font-size: 100px;
+    color: #2b98f5;margin: 0;
+}
+
+p {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #5f5f5f;
+}
+
+a {
+    font: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    color: #2b98f5;
+    border: 2px solid;
+    color: #2b98f5;
+}
+
+img {
+    width: 49.6%;
+    display: inline-block;
+}
