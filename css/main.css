@@ -32,10 +32,10 @@ p {
 }
 
 a {
-    font: 20px;
-    padding: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    font: 15px;
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
     border-radius: 30px;
     text-decoration: none;
     color: #2b98f5;
