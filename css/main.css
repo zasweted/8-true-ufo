@@ -4,34 +4,34 @@ body {
 
 }
 
-main {
-    width: 70%;
-    margin-left: 15%;
-    margin-top: 10%;
+.container {
     display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    margin-right: calc(50% - 400px);
+    margin-top: 150px;
 
 }
 
-main > div {
-    width: 50%;
+.left-column {
+    width: 40%;
     float: left;
-    font-size: 30px;
-    margin-top: 90px;
+    margin-top: 65px;
 }
 
-h1 {
+main h1 {
     font-size: 100px;
     color: #2b98f5;margin: 0;
 }
 
-p {
+main p {
     margin-top: 0;
     text-transform: uppercase;
     font-weight: bold;
     color: #5f5f5f;
 }
 
-a {
+.btn {
     font: 15px;
     padding: 5px;
     padding-left: 25px;
@@ -43,7 +43,7 @@ a {
     color: #2b98f5;
 }
 
-img {
+main img {
     width: 49.6%;
     display: inline-block;
 }
